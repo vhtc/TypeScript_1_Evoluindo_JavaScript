@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "outDir": "dist/js", //diretoriio a ser carregado para javascript
+        "target": "ES6", // para qual ecmascript
+        "noEmitOnError": true
+    },
+    "include": [
+        "app/**/*" //toda subpasta e qualquer arquivo
+    ]
+}
