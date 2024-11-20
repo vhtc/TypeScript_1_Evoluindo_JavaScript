@@ -4,4 +4,4 @@
 ## section 2 - ok - TypeScript e compilador
 ## section 3 - ok - Benefícios da tipagem estática
 ## section 4 - ok - Avançando na modelagem de domínio
-## section 5 -    - Simplificando nosso código
+## section 5 - ok - Simplificando nosso código
